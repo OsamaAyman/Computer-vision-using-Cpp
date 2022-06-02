@@ -1,0 +1,8 @@
+﻿  technicalAssignment.cpp
+D:\tasks\Beyond-Apps-Group\Phase2\Osama Ayman Solution\technicalAssignment\technicalAssignment.cpp(12,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\tasks\Beyond-Apps-Group\Phase2\Osama Ayman Solution\technicalAssignment\technicalAssignment.cpp(43,54): warning C4305: 'initializing': truncation from 'double' to '_Tp'
+          with
+          [
+              _Tp=float
+          ]
+  technicalAssignment.vcxproj -> D:\tasks\Beyond-Apps-Group\Phase2\Osama Ayman Solution\technicalAssignment\x64\Debug\technicalAssignment.exe
